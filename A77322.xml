@@ -1,0 +1,628 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letters from Sir William Brereton Sir Thomas Middleton, Sir John Meldrum, of the great victory (by Gods providence) given them, in raising the siege from before Mountgomery-castle And, how they routed, and totally dispersed His Majesties forces, under the command of the Lord Byron; where they tooke all their carriages, armes, and ammunition, and made them flie to Shrewsbury and Chester. With a list of the names of all the commanders and officers taken and kild in the said service. Die Lunæ, 23 Septemb. 1644. Ordered by the Lords in Parliament assembled, that these letters be forthwith printed and published. J. Brown Cler. Parliamentorum.</title>
+            <author>Brereton, William, Sir, 1604-1661.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77322</idno>
+            <idno type="STC">Wing B4369A</idno>
+            <idno type="STC">ESTC R232646</idno>
+            <idno type="EEBO-CITATION">99898025</idno>
+            <idno type="PROQUEST">99898025</idno>
+            <idno type="VID">171025</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77322)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171025)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2550:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Letters from Sir William Brereton Sir Thomas Middleton, Sir John Meldrum, of the great victory (by Gods providence) given them, in raising the siege from before Mountgomery-castle And, how they routed, and totally dispersed His Majesties forces, under the command of the Lord Byron; where they tooke all their carriages, armes, and ammunition, and made them flie to Shrewsbury and Chester. With a list of the names of all the commanders and officers taken and kild in the said service. Die Lunæ, 23 Septemb. 1644. Ordered by the Lords in Parliament assembled, that these letters be forthwith printed and published. J. Brown Cler. Parliamentorum.</title>
+                  <author>Brereton, William, Sir, 1604-1661.</author>
+                  <author>Middleton, Thomas, Sir, 1586-1666. aut</author>
+                  <author>Meldrum, John, Sir, d. 1645. aut</author>
+                  <author>England and Wales. Parliament. House of Lords. Proceedings. 1644-09-23. aut</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Iohn Wright in the Old-baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Septemb. 23. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Victoria and Albert Museum, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Montgomeryshire (Wales) --  History --  Siege, 1644 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171025:1"/>
+            <p>LETTERS FROM Sir WILLIAM BRERETON Sir THOMAS MIDDLETON, Sir JOHN MELDRUM, Of the great Victory (by Gods providence) given them, in raiſing the ſiege from before <hi>Mountgomery-caſtle.</hi>
+            </p>
+            <p>AND, How they routed, and totally diſperſed His MAjESTIES Forces, under the command of the Lord <hi>Byron;</hi> where they tooke all their Carriages, Armes, and Ammunition, and made them flie to <hi>Shrewsbury</hi> and <hi>Cheſter.</hi>
+            </p>
+            <p>With a Liſt of the names of all the Commanders and Officers taken and kild in the ſaid ſervice.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <opener>
+                           <dateline>
+                              <date>Die Lunae, 23 Septemb. 1644.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>ORdered by the Lords in Parliament aſſembled, That theſe Letters be forthwith printed and publiſhed.</hi>
+                        </p>
+                        <closer>
+                           <signed>J. Brown Cler. Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Iohn Wright</hi> in the Old-baily, Septemb. 23. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:171025:2"/>
+            <pb n="1" facs="tcp:171025:2"/>
+            <head>To the Right Honourable, the LORDS, and others of the Com<g ref="char:EOLhyphen"/>mittee of both Kingdomes, ſitting at <hi>Darby</hi>-houſe in <hi>Weſtminſter.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat God who is moſt glorified by working by the weakeſt and unworthieſt inſtruments, hath this day given a moſt glorious victory, and as much manifeſted his power therein, as in any day I have been engaged ſince the beginning of theſe warres.</p>
+            <p>We have relieved Mountgomery-caſtle, wher<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in there was cloſely beſieged, and much diſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſſed the L. <hi>Herbert</hi> of Cherbury, Col. <hi>Price,</hi> and moſt of Sir <hi>Tho. Middletons</hi> Offi<g ref="char:EOLhyphen"/>cers, and neere 500 Souldiers.</p>
+            <p>We were ſo very hard tasked by the multitude of our enemies, (who did much exceed us in number) as that, if the Commanders and Souldiers had not engaged, and be<g ref="char:EOLhyphen"/>haved themſelves very gallantly; or if we had wanted any part of our forces, it might have hazzarded our Army, for it was very dubious and uncertaine which way the Lord would incline the victory: it came to puſh of Pike, wherein
+<pb facs="tcp:171025:3"/>
+               <pb n="1" facs="tcp:171025:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:171025:4"/>
+               <pb n="1" facs="tcp:171025:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:171025:5"/>they were much too hard for us, having many more Pikes Our horſe alſo at the beginning of the battell were worſt<g ref="char:EOLhyphen"/>ed, &amp; retreated; but there was, I doe believe an unanimous reſolution both in horſe and foot to fight it out to the laſt man. Indeed there could be no other hope nor expectation of ſafety or eſcape, there remaining no way of retreat, all paſſages being entirely in the enemies power (if maſters of the field;) and truly if God had not infatuated, they might eaſily have interrupted our paſſage, and made good diven paſſes againſt us. But our extremity was Gods opportu<g ref="char:EOLhyphen"/>nity to magniſie his power; for when it was moſt dubio<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Lord ſo guided and encouraged our men: that wi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> one freſh valiant charge we routed and put to retreat and flight their whole Army, purſued them many miles, eve<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the Mountaines, and did perform great execution up<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> them; ſlew (I doe believe) 500. wounded many more tooke neere 1500 priſoners, and amongſt them Colon<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Broughton,</hi> and Col. <hi>Tilſley,</hi> who they report to be Genera<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> majors; there were alſo taken Lieutenant-colonels, Majo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and Captaines, more then twenty; and all their Carriage and neere 20 barrels of Powder, wherein they were f<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>niſhed the night before the battell; We tooke alſo (as w<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> conceived) neere 1500. or 2000. Armes, moſt for fo<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Moſt of their horſe eſcaped towards Shrewsbury an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Cheſter.</p>
+            <p>The enemies Army was reported, (and I doe believe <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> was no leſſe then 4000. the Foot being the old Iriſh w<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> came out of Ireland with Col. <hi>Broughton, Warren, Tyll<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> and ſome of Col. <hi>Ellis,</hi> and ſome of Col. Sir <hi>Michael Wo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> houſes,</hi> and Sir <hi>Michael Ernlys</hi> Regiment, from Shrewsbur<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Cheſter, and Ludlow. Our Army conſiſted of about 15<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Foot, and 1500 horſe. We loſt not <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0 men ſlaine, and I d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> believe, there was not 60 wounded. Our greateſt lo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="3" facs="tcp:171025:5"/>was of Sir <hi>Wil. Fairfax,</hi> and Major <hi>Fitz-Simons,</hi> moſt gal<g ref="char:EOLhyphen"/>lant men. Sir <hi>John Meldrum</hi> did with much judgement order and command theſe forces, and therefore deſerves a large ſhare in the honour of this daies ſucceſſe. But in<g ref="char:EOLhyphen"/>deed the whole honour and glory is to be given and aſcri<g ref="char:EOLhyphen"/>bed to God the giver of victories, and who is moſt deſer<g ref="char:EOLhyphen"/>vedly ſtiled the Lord of Hoſts.</p>
+            <p>What remaines further to be done in proſecution of this victory ſhall not be omitted; and if it pleaſe God that Newcaſtle be delivered, and ſome Scottiſh Forces aſſigned to aſſiſt to the taking in of Cheſter, I hope through Gods mercy there may be a good account given of all theſe parts of the Kingdome. To effect which, no man ſhall ſerve you with more faithfulneſſe then</p>
+            <closer>
+               <dateline>
+                  <hi>Mountgomery,</hi> 
+                  <date>Septemb. 18. 1644.</date>
+               </dateline>
+               <signed>Your humble ſervant. <hi>WILLIAM BRERETON.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>We know not how to diſpoſe of theſe common pri<g ref="char:EOLhyphen"/>ſoners, unleſſe it would pleaſe you to order ſome of them that will take the Covenant to be ſhipped (if God give us Leverpoole) and tranſported over into Ireland, to ſerve you there.</p>
+               <p>VVe have left Sir <hi>Tho. Middleton</hi> in a good condition in Mountgomery-caſtle, and the Gentlemen of the Country begin to come in unto him; Sir <hi>Iohn Price</hi> is already come unto him, before I came thence. The L. <hi>Herbert</hi> is come away with us towards Oſweſtry.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:171025:6"/>
+            <head>For the Right Honourable, the Committee for both King<g ref="char:EOLhyphen"/>domes, at Darby-houſe in Weſtminſter.</head>
+            <opener>
+               <salute>My Lords, and Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Formerly acquainted you of our comming hi<g ref="char:EOLhyphen"/>ther and of our proceedings in theſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> parts; and alſo of the good ſucceſſe it pleaſed God to be<g ref="char:EOLhyphen"/>ſtow upon us. Since which time the enemy haſtned to come upon us, before we could bring in proviſions for our Garriſon; by reaſon whereof I was enforced to retreat with my Horſe unto Oſweſtry, with ſome ſmall loſse, onely of ſtraglers that lay loytering behind, leaving all my Foot in the Caſtle, and haſtned into Cheſhire to procure reliefe, and likewiſe into L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ncaſhire to Sir <hi>John Mel<g ref="char:EOLhyphen"/>drum,</hi> from whom I found a great deale of readin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe to relieve us in our diſtreſſe, and to preſerve what we had gotten from the enemy, being <hi>37</hi> barrels of Powder, and twelve of Brimſtone, both which they exceedingly wanted. Sir <hi>Iohn Meldrum,</hi> with Sir <hi>William Brereton,</hi> and Sir <hi>William Fairfax</hi> marched with <hi>3000</hi> Horſe and Foot towards Mountgomery, and came thither on the <hi>17</hi> of this inſtant September, where we lay that night in the field that was moſt advantagious for us, which the enemy had poſſeſt themſelves of before, and diſerted at our com<g ref="char:EOLhyphen"/>ming
+<pb n="5" facs="tcp:171025:6"/>thither, placing themſelves upon the mountaine above the Caſtle, a place of great advantage for them; we reſolved not to goe to them, but to endeavour the victualling of the Caſtle; where<g ref="char:EOLhyphen"/>upon we ſent out parties for the bringing in of proviſions; which the enemy perceiving, they marched downe in a body both Horſe and Foot, being in number about <hi>5000.</hi> and came up to our ground, and gave us battell; wherein, after an houres fight, it pleaſed God we obtained a glorious victory, having ta<g ref="char:EOLhyphen"/>ken many Officers, <hi>1400</hi> common Souldiers, ſlaine <hi>400,</hi> and taken their Ammunition, with a great part of their Armes, and ſome few horſe, the reſt all flying away; the Lord <hi>Byron</hi> com<g ref="char:EOLhyphen"/>manded in chiefe the enemies forces, and Sir <hi>Iohn Meldrum</hi> the Parliaments forces, who behaved himſelfe moſt bravely and gallantly; and Sir <hi>William Fairfax,</hi> who had the command of the horſe did moſt valiantly ſet upon their horſe, and engaged himſelfe ſo farre that he was taken priſoner, but preſently fetcht off by the valour of our men, but ſore wounded; our men iſſued alſo out of the Caſtle, and fell upon the enemies in their trenches, and tooke divers of their Officers, and Souldiers, which they had leſt to keepe their Workes; Sir <hi>William Brereton</hi> with the Cheſhire foot did moſt bravely behave themſelves that day, and did beat the beſt Foot in England, as they the very enemies con<g ref="char:EOLhyphen"/>feſſe, being all Prince <hi>Ruperts</hi> foot, and the choſen foot out of all their Garriſons. I ſhall make it ſtill my humble ſuite, that you will pleaſe to afford me ſome ſpeedie courſe for preſent mo<g ref="char:EOLhyphen"/>ney, for the payment of my Souldiers, for without that I ſhall not be able to keepe them together. And for the preſent I ſhall take upon me the boldneſſe to ſubſcribe my ſelfe</p>
+            <closer>
+               <dateline>Mountgomery-caſtle, <date>
+                     <hi>Septemb.</hi> 19. 1644.</date>
+               </dateline>
+               <salute>My Lords, and Gentlemen,</salute>
+               <signed>your humble ſervant, THOMAS MIDDLETON.</signed>
+            </closer>
+            <postscript>
+               <p>Since the writing of this Letter it hath pleaſe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> God to take to his mercy Sir <hi>W. Fairfax,</hi> who is even now dead</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:171025:7"/>
+            <head>For the Right Honourable, the LORDS, and others, of the Committee of ſafety for both KINGDOMES.</head>
+            <opener>
+               <salute>My Lords,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have thought fit to give your Lordſhips a briefe account of ſome paſſages of buſi<g ref="char:EOLhyphen"/>neſſes here in <hi>Wales,</hi> forbearing a larger relation till I ſhall have a further time, and larger ſubject, which in all probability, by Gods aſſiſtance, may offer it ſelfe within a ſhort time. I was by the earneſt invitations of Sir <hi>William Brereton,</hi> and Sir <hi>Thomas Middleton</hi> eaſily perſwaded to concurre with them for the reliefe of Mountgomery<g ref="char:EOLhyphen"/>caſtle, beſieged by the Kings forces; I reſolved to contri<g ref="char:EOLhyphen"/>bute my beſt endeavours in that expedition, as well in re<g ref="char:EOLhyphen"/>gard of the importance of the ſervice, as that Leverpoole was not to be attempted ſuddenly by ſuch forces as I had, (being in number inferiour to the forces within the Towne,) whereupon I went along with the Yorkſhire, Lancaſhire, Cheſhire, and Staffordſhire forces (amoun<g ref="char:EOLhyphen"/>ting to 3000. horſe and foote,) and marched to Mount<g ref="char:EOLhyphen"/>gomery-caſtle in Wales, which was by a great deale of
+<pb n="7" facs="tcp:171025:7"/>induſtrie and reſolution, taken in by Sir <hi>Thomas Middleton,</hi> together with a great deale of powder, match and brimſtone, which (coming from Briſtoll) was prepared for the relief of Shrewsbury, Cheſter, and Leverpoole: upon our ap<g ref="char:EOLhyphen"/>proach towards the Caſtle, the Enemie did withdraw them<g ref="char:EOLhyphen"/>ſelves in ſome diſorder, the next day after being the 18. of September, they did take the advantage of the weakneſſe of our Quarters, the third part of our Horſe being imployed a<g ref="char:EOLhyphen"/>broad for victualls and forrage; their Horſe and Foot came on, with great courage, reſolving to breake through our Forces, and to make themſelves Maſters of a Bridge we had gained, the night before: which would have cut off the paſ<g ref="char:EOLhyphen"/>ſage of our retreat: It pleaſed God to diſpoſe ſo of the iſſue of the buſineſſe, that (by the reſolution of the Officers, and Souldiers, of Horſe and Foot) the Enemy did looſe the ad<g ref="char:EOLhyphen"/>vantage they had in the beginning, and were ſhamefully rou<g ref="char:EOLhyphen"/>ted, by the purſuit of the victorie, which continued for the ſpace of three miles: there are found dead upon the place five hundred, beſides many Officers of quallity killed and wounded, and twelve hundred Priſoners: Sir <hi>William Fair<g ref="char:EOLhyphen"/>fax,</hi> and Major <hi>Fitſimons</hi> (who caried themſelves moſt brav<g ref="char:EOLhyphen"/>ly) are deadly wounded, without great hope of recovery, with ſome other Captains and Officers of our Horſe: the Cheſhire Foot with their Officers, carried themſelves more like Lyons, then men, eſpecially Major <hi>Lowthian</hi> who com<g ref="char:EOLhyphen"/>manded as Major Generall: The Caſtle is releeved with victualls, Sir <hi>Thomas Middletons</hi> Souldiers who were before as Priſoners, are made free together with the Lord <hi>Herbert</hi> of Cherberie: amongſt the Priſoners Major Generall <hi>Tilliſeley,</hi> Colonell <hi>Broughton,</hi> and divers Lievtenant-Colonells and Majors, with many Captains and Lievtenants, ſo that by the blow given here, the beſt of their Foot are taken away, Shrewsburie, Cheſter, and Leverpoole, unfurniſhed with Ammunition; and North Wales (which formerly hath been
+<pb n="8" facs="tcp:171025:8"/>the nurſerie for the Kings Armies) in all likelihood, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhake of that yoke of ſervitude which formerly did lie<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> their necks, and wilbe reduced to the obedience of King<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Parliament, by the example of Montgomery Caſtle, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is one of the goodlieſt and ſtrongeſt places that ever I lo<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> upon. The perſonall carriage and indeavours of Sir <hi>W<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Brereton</hi> and Sir <hi>Thomas Middleton</hi> hath been exceeding <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in the advancement of this ſervice. There is good hope Leverpoole by famine wilbe ſoone rendered, and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Shrewsbury, and Cheſter will be at the laſt gaſpe, wh<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> by Gods aſſiſtance there ſhalbe a ſhort triall made. So <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ving no further for the preſent to impart to your Lordſh<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> I ſhall cheriſh all occaſions wherein I may approve my <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+            <closer>
+               <dateline>Montgomerie Caſtle <date>Septemb. 19. 1644.</date>
+               </dateline>
+               <signed>Your Lordſhips moſt humb<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Servant, <hi>John Meldrum.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <opener>
+                  <salute>My Lords,</salute>
+               </opener>
+               <p>THe intelligence I have had ſince the cloſing of <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Letter, of a body of Horſe, and Colonell <hi>Hunks</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>giment of Foot that are marched to Shrewsbury, and <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Lords <hi>Biron</hi> and <hi>Mullinax</hi> are gone backe to Cheſt<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> have altered my reſolution touching Shrewsbury, whic<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the beſt had no other inducement, but the hope of a p<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tie within the Towne, and the ſcarcitie of Souldiers the<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> I am</p>
+               <closer>
+                  <signed>Your Lordſhips moſt humble Servant, <hi>John Meldrum.</hi>
+                  </signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="list_of_casualties">
+            <pb n="9" facs="tcp:171025:8"/>
+            <head>A Liſt of the Priſoners taken and ſlaine at the Battell neere Mountgomery, upon the eighteenth of September. 1644.</head>
+            <list>
+               <item>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ol. Broghton</item>
+               <item>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r Th. Tilſley Col.</item>
+               <item>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>evt. Col. Bladwell</item>
+               <item>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ajor Williams</item>
+               <item>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>apt. Boulton</item>
+               <item>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>apt. Edgerton</item>
+               <item>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>apt. Bellamy</item>
+               <item>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>apt. Floyd</item>
+               <item>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>apt. Dolebin</item>
+               <item>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>apt. Congrave</item>
+               <item>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>apt. Bowman</item>
+               <item>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>apt. Right</item>
+               <item>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>apt. Morgan</item>
+               <item>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>evt. Scidney</item>
+               <item>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>evt. Rowes</item>
+               <item>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>evt. Griffith</item>
+               <item>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>evt. Morgan</item>
+               <item>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>evt. Thurland</item>
+               <item>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>evt. Wilſon</item>
+               <item>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>evt. Floyd</item>
+               <item>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>evt. Lewis</item>
+               <item>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>evt. Bowen</item>
+               <item>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>evt. Brickam</item>
+               <item>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>evt. Hager</item>
+               <item>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>evt. Minchle</item>
+               <item>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>evt. Floyd</item>
+               <item>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>evt. Olliver</item>
+               <item>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>evt. Cavanogh</item>
+               <item>Lievt. Perkins</item>
+               <item>Lievt. Alderſay</item>
+               <item>Quart. Mr. Snelling</item>
+               <item>Cornet Perſons</item>
+               <item>Cornet Hachkiſſon</item>
+               <item>Cornet Stagge</item>
+               <item>Enſigne Wallis</item>
+               <item>Enſigne Williams</item>
+               <item>Enſ. Dutten</item>
+               <item>Enſ. Lampley</item>
+               <item>Enſ. Parr</item>
+               <item>Enſ. Edwards</item>
+               <item>Enſ. Clackſtone</item>
+               <item>Enſ. Harriſon</item>
+               <item>Enſ. Contry</item>
+               <item>Enſ. Heſt</item>
+               <item>Enſ. Lagden</item>
+               <item>Enſ. Jones</item>
+               <item>Enſ. Barker</item>
+               <item>Enſ. Price</item>
+               <item>Enſ. Roberts</item>
+               <item>Enſ. Richardſon</item>
+               <item>Enſ. Prichard</item>
+               <item>Enſ. Winn</item>
+               <item>Enſ. Johnſon</item>
+               <item>Enſ. Roe</item>
+               <item>Enſ. Right</item>
+               <item>Enſ. Erwin</item>
+            </list>
+            <list>
+               <head>Serjeants,</head>
+               <item>Simeon Day</item>
+               <item>Francis Weſt</item>
+               <item>Richard Watſon</item>
+               <item>Francis Gough</item>
+               <item>Jo. Morgan</item>
+               <item>Jo. Sprigman</item>
+               <item>Will. Hughs</item>
+               <item>Jo. Davies</item>
+               <item>Tho. Ward</item>
+               <item>Ja. Newin</item>
+               <item>Edward Badcocke</item>
+               <item>Richard Etty</item>
+               <item>Morris Jones</item>
+               <item>Rand. Griffith</item>
+               <item>Ralph Smith</item>
+               <item>Will. Jackſon</item>
+               <item>Ralph Herley</item>
+               <item>Jam. Jefferies</item>
+               <item>Rich. Morgan</item>
+               <item>Griffith Loyd</item>
+               <item>Samuel Day</item>
+               <item>Will. Williams</item>
+               <item>Jo. Davies</item>
+               <item>Peter Lee</item>
+               <item>Will. Manning</item>
+               <item>Ed. Philips</item>
+               <item>Jo. Hin</item>
+               <pb n="10" facs="tcp:171025:9"/>
+               <item>Ralph Aſton</item>
+               <item>Roger Stanton</item>
+               <item>Griffith Davis</item>
+               <item>John Smith</item>
+               <item>John Paſter</item>
+               <item>Wil. Paſley</item>
+               <item>Thomas Colflow</item>
+               <item>Rob. Stanford</item>
+               <item>Iſaac Guy</item>
+               <item>Tho. Latham</item>
+               <item>John Browne</item>
+               <item>John Knowles</item>
+               <item>Robert Barber</item>
+               <item>Sam. Rode</item>
+               <item>Rob. Teade</item>
+               <item>Roger Pyer</item>
+               <item>Nath. Dale</item>
+               <item>Will. Compton</item>
+               <item>Ralph Williams</item>
+               <item>Rob. Baccott</item>
+               <item>John Hunſton</item>
+               <item>Rob. Jones</item>
+               <item>Cornelius Sedgel</item>
+               <item>Edward Jones</item>
+               <item>Edw. Sulbourne</item>
+            </list>
+            <list>
+               <head>Corporalls.</head>
+               <item>George Groeyer</item>
+               <item>Henry Care</item>
+               <item>Tho. Hall</item>
+               <item>Tho. Cheadle</item>
+               <item>John Hughs</item>
+               <item>Andrew Clift</item>
+               <item>John Huſſey</item>
+               <item>Evan Price</item>
+               <item>Henry Barrow</item>
+               <item>Roger Houlton</item>
+               <item>Law. Ward</item>
+               <item>Henry Harway</item>
+               <item>Rice Lewis</item>
+               <item>Griffith Jones</item>
+               <item>Edward Wills</item>
+               <item>Evan ap Humphrey</item>
+               <item>Andrew Powell</item>
+               <item>John Eleney</item>
+               <item>Rob. Price</item>
+               <item>Robert Petts</item>
+               <item>Tho. Taylor</item>
+               <item>James Moore</item>
+               <item>John Wolfe</item>
+               <item>John Deley</item>
+               <item>Rich. Barker</item>
+               <item>Edw. Hayden</item>
+               <item>Tho. Mullenex</item>
+               <item>Griffith Thomas</item>
+               <item>John Greene</item>
+               <item>Antho. Carr</item>
+               <item>Gilbert Sorby</item>
+               <item>Rich Key</item>
+               <item>John Hughs</item>
+               <item>John Jude</item>
+               <item>Will. Madders</item>
+               <item>Tho. Lee</item>
+               <item>Joſeph Barford</item>
+               <item>John Dillen</item>
+               <item>Rich. Salmon</item>
+               <item>Tho. Crooke</item>
+               <item>Tho. Albott</item>
+               <item>John Williams</item>
+               <item>Peter Lloyd</item>
+               <item>Chriſtopher Pl<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>Hen. Neneley</item>
+               <item>John Chilton</item>
+               <item>John Simpſon</item>
+               <item>Roger Morris</item>
+               <item>John Franke</item>
+               <item>Humphrey Bo<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>John Thomas</item>
+               <item>John Sarley</item>
+               <item>Patricke Role</item>
+               <item>William Gilber<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Rich. Walten</item>
+               <item>Antho. Cornett</item>
+               <item>Rich. Leadbea<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+            </list>
+            <list>
+               <head>Drummers.</head>
+               <item>Will. Grynes</item>
+               <item>Will. Guy</item>
+               <item>John Collyer</item>
+               <item>John Perrey</item>
+               <item>Tho. Heyes</item>
+               <item>Robert Trehan</item>
+               <item>Edward Wa<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>James Lawſt<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>Tho. Deckes</item>
+               <item>Rich. Moore</item>
+               <item>Tho. Hyde.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
